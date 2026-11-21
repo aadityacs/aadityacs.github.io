@@ -2,14 +2,13 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal articles, preprints and patents in reverse chronological order. The DOI button opens the published version.
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-{% include bib_search.liquid %}
+<style>
+  .publications h2.bibliography { color: var(--global-text-color-light); }
+</style>
 
 <div class="publications">
 
