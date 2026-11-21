@@ -1,5 +1,3 @@
-# Venue badges shown next to each publication (key = `abbr` field in the .bib files).
-
 "SMO":
   url: https://link.springer.com/journal/158
   color: "#1f4e79"

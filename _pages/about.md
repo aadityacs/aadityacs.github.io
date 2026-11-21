@@ -1,41 +1,30 @@
 ---
-# ============================================================================
-# HOME PAGE. Edit the settings below and the bio text at the bottom.
-# ============================================================================
 layout: about
 title: about
 permalink: /
-
-# Line shown under your name.
 subtitle: Postdoctoral Scientist, Northwestern University
 
 profile:
   align: right
-  image: prof_pic.jpg # your photo, stored in assets/img/
-  image_circular: false # true crops the photo to a circle
-  # Address shown under the photo. Keep one <p> ... </p> per line.
+  image: prof_pic.jpg
+  image_circular: false
   more_info: >
     <p>Mechanical Engineering</p>
     <p>Northwestern University</p>
     <p>2145 Sheridan Rd</p>
     <p>Evanston, IL 60208</p>
 
-selected_papers: true # shows papers marked selected = {true} in _bibliography/papers.bib
-social: true # shows the email, Scholar, GitHub, LinkedIn and CV icons
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # change to true once you have added your first file to _news/
+  enabled: false # true once _news/ has a file
   scrollable: true
-  limit: 5 # how many news items the home page shows
+  limit: 5
 
 latest_posts:
   enabled: false
 ---
-
-<!-- ======================================================================
-  BIO. Plain text. Links are written as [text](https://address).
-  Leave an empty line between paragraphs.
-======================================================================= -->
 
 I'm a postdoc at Northwestern University, working at the intersection of design optimization, computational mechanics, and machine learning under the supervision of [Dr. Wei Chen](https://ideal.mech.northwestern.edu/).
 
