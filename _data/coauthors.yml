@@ -1,0 +1,10 @@
+# Coauthor names listed here are linked on the publications page.
+# Key is the lowercase last name. `firstname` lists every form used in the .bib files.
+
+"suresh":
+  - firstname: ["Krishnan", "K."]
+    url: https://directory.engr.wisc.edu/me/faculty/suresh_krishnan
+
+"chen":
+  - firstname: ["Wei", "W."]
+    url: https://ideal.mech.northwestern.edu/

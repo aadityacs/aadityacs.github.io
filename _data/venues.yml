@@ -1,0 +1,46 @@
+# Venue badges shown next to each publication (key = `abbr` field in the .bib files).
+
+"SMO":
+  url: https://link.springer.com/journal/158
+  color: "#1f4e79"
+
+"CAD":
+  url: https://www.sciencedirect.com/journal/computer-aided-design
+  color: "#e9711c"
+
+"EWC":
+  url: https://link.springer.com/journal/366
+  color: "#2e7d32"
+
+"AES":
+  url: https://www.sciencedirect.com/journal/advances-in-engineering-software
+  color: "#8e24aa"
+
+"MatDes":
+  url: https://www.sciencedirect.com/journal/materials-and-design
+  color: "#00838f"
+
+"AppEnergy":
+  url: https://www.sciencedirect.com/journal/applied-energy
+  color: "#c62828"
+
+"IDETC":
+  color: "#5d4037"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"GoogleX":
+  url: https://x.company/
+  color: "#455a64"
+
+"PARC":
+  color: "#455a64"
+
+"UW-Madison":
+  url: https://www.wisc.edu/
+  color: "#455a64"
+
+"Submitted":
+  color: "#757575"
